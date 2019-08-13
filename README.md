@@ -1,0 +1,2 @@
+# ShiroSpringMvc
+Shiro整合SpringMVC的样例demo，记录怎么搭建一个shiro架构，怎么使用，和一些理解学习
